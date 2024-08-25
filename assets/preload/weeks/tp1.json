@@ -1,0 +1,48 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Missing",
+			"SMALLSOPHIE",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Soapie",
+			"jenny",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Reawaken",
+			"edd",
+			[
+				165,
+				0,
+				77
+			]
+		]
+
+
+
+
+	],
+	"hideStoryMode": true,
+	"difficulties": "Normal",
+	"weekName": "Tutorial"
+}
