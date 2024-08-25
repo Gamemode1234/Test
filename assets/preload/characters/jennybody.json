@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jbi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jbl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jbd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jbu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jbr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bgs/soapie/jenbody",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

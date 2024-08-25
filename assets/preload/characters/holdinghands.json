@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 5,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "holdinghands left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 5,
+			"anim": "singUP",
+			"indices": [],
+			"name": "holdinghands up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 5,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "holdinghands down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 5,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "holdinghands right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 5,
+			"anim": "idle",
+			"indices": [],
+			"name": "holdinghands idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "holdinghands glitch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/reawaken/holdinghands",
+	"position": [
+		-900,
+		-360
+	],
+	"healthicon": "holdhands",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		26,
+		4
+	],
+	"camera_position": [
+		560,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

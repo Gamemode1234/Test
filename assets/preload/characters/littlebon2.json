@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "BonDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "BonLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 17,
+			"name": "BonIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				12
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "BonUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "BonRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-131
+			],
+			"anim": "singLEFTmiss",
+			"fps": 14,
+			"name": "BonMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-149
+			],
+			"anim": "singDOWNmiss",
+			"fps": 14,
+			"name": "BonMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 14,
+			"name": "BonMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-88
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 14,
+			"name": "BonMissRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/missing/BonMissingPOV2",
+	"position": [
+		-400,
+		-300
+	],
+	"healthicon": "LILBON",
+	"flip_x": true,
+	"healthbar_colors": [
+		62,
+		150,
+		143
+	],
+	"camera_position": [
+		260,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

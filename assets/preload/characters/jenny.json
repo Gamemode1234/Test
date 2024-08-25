@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jhi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jhl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jhd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jhu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jhr",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "miss",
+			"loop": false,
+			"name": "jhh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soapie/headreal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jenny",
+	"flip_x": false,
+	"healthbar_colors": [
+		227,
+		95,
+		37
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

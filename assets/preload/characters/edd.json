@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "edd idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "edd up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "edd down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "edd right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "edd left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/reawaken/edd",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		26,
+		4
+	],
+	"camera_position": [
+		-60,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				-49
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sophmissdown"
+		},
+		{
+			"offsets": [
+				47,
+				39
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sophmissleft"
+		},
+		{
+			"offsets": [
+				-107,
+				58
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sophmissup"
+		},
+		{
+			"offsets": [
+				6,
+				-8
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sophmissright"
+		},
+		{
+			"offsets": [
+				8,
+				-8
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sophdown"
+		},
+		{
+			"offsets": [
+				1,
+				-13
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sophright"
+		},
+		{
+			"offsets": [
+				1,
+				13
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sophup"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "sophidle"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sophleft"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				272,
+				428
+			],
+			"anim": "death",
+			"fps": 17,
+			"name": "dumb bitch",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/missing/sophieMissing",
+	"position": [
+		200,
+		-110
+	],
+	"healthicon": "SMALLSOPHIE",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		0,
+		110
+	],
+	"camera_position": [
+		300,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
