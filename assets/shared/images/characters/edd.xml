@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="edd.png">
+<SubTexture name="edd idle0000" x="508" y="0" width="245" height="642" frameX="-662" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd idle0001" x="753" y="0" width="245" height="642" frameX="-662" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd idle0002" x="998" y="0" width="242" height="640" frameX="-662" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd idle0003" x="998" y="0" width="242" height="640" frameX="-662" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd up0000" x="0" y="0" width="251" height="686" frameX="-662" frameY="-12" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd up0001" x="251" y="0" width="257" height="675" frameX="-662" frameY="-25" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd up0002" x="251" y="0" width="257" height="675" frameX="-662" frameY="-25" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd right0000" x="314" y="686" width="323" height="597" frameX="-681" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd right0001" x="0" y="686" width="314" height="603" frameX="-683" frameY="-92" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd right0002" x="0" y="686" width="314" height="603" frameX="-683" frameY="-92" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd down0000" x="1253" y="686" width="277" height="559" frameX="-661" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd down0001" x="985" y="686" width="268" height="563" frameX="-665" frameY="-124" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd down0002" x="985" y="686" width="268" height="563" frameX="-665" frameY="-124" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd left0000" x="637" y="686" width="348" height="597" frameX="-574" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd left0001" x="1240" y="0" width="322" height="608" frameX="-593" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="edd left0002" x="1240" y="0" width="322" height="608" frameX="-593" frameY="-86" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

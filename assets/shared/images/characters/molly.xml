@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="molly.png">
+<SubTexture name="molly idle0000" x="1464" y="626" width="310" height="625" frameX="-303" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly idle0001" x="0" y="1323" width="310" height="625" frameX="-303" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly idle0002" x="310" y="1323" width="286" height="619" frameX="-316" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly idle0003" x="310" y="1323" width="286" height="619" frameX="-316" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly up0000" x="0" y="0" width="302" height="673" frameX="-314" frameY="-16" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly up0001" x="1178" y="0" width="286" height="650" frameX="-324" frameY="-40" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly up0002" x="0" y="673" width="286" height="650" frameX="-324" frameY="-40" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly right0000" x="286" y="673" width="438" height="646" frameX="-252" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly right0001" x="302" y="0" width="438" height="661" frameX="-245" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly right0002" x="740" y="0" width="438" height="661" frameX="-245" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly down0000" x="1374" y="1323" width="403" height="553" frameX="-249" frameY="-135" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly down0001" x="596" y="1323" width="389" height="556" frameX="-257" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly down0002" x="985" y="1323" width="389" height="556" frameX="-257" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly left0000" x="1464" y="0" width="529" height="626" frameX="-71" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly left0001" x="724" y="673" width="507" height="642" frameX="-93" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="molly left0002" x="724" y="673" width="507" height="642" frameX="-93" frameY="-60" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

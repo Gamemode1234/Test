@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="holdinghands.png">
+<SubTexture name="holdinghands idle0000" x="1194" y="2802" width="1208" height="1284" frameX="-606" frameY="-106" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands idle0001" x="5262" y="1284" width="1176" height="1280" frameX="-632" frameY="-110" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands idle0002" x="2402" y="2802" width="1208" height="1284" frameX="-606" frameY="-106" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands idle0003" x="5262" y="1284" width="1176" height="1280" frameX="-632" frameY="-110" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands up0000" x="2560" y="0" width="1198" height="1372" frameX="-628" frameY="-24" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands up0001" x="1870" y="1440" width="1190" height="1350" frameX="-648" frameY="-50" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands up0002" x="1870" y="1440" width="1190" height="1350" frameX="-648" frameY="-50" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands right0000" x="3758" y="1322" width="1504" height="1294" frameX="-504" frameY="-98" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands right0001" x="3758" y="0" width="1504" height="1322" frameX="-490" frameY="-74" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands right0002" x="3758" y="0" width="1504" height="1322" frameX="-490" frameY="-74" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands down0000" x="1701" y="4090" width="1378" height="1122" frameX="-498" frameY="-270" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands down0001" x="5262" y="2564" width="1352" height="1130" frameX="-514" frameY="-248" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands down0002" x="5262" y="2564" width="1352" height="1130" frameX="-514" frameY="-248" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands left0000" x="0" y="4090" width="1701" height="1252" frameX="-142" frameY="-130" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands left0001" x="3610" y="2802" width="1645" height="1284" frameX="-186" frameY="-120" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands left0002" x="3610" y="2802" width="1645" height="1284" frameX="-186" frameY="-120" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0000" x="2402" y="2802" width="1208" height="1284" frameX="-606" frameY="-106" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0001" x="2402" y="2802" width="1208" height="1284" frameX="-606" frameY="-106" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0002" x="2402" y="2802" width="1208" height="1284" frameX="-606" frameY="-106" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0003" x="0" y="2802" width="1194" height="1288" frameX="-607" frameY="-106" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0004" x="5262" y="0" width="1468" height="1284" frameX="-460" frameY="-108" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0005" x="0" y="1440" width="1870" height="1362" frameX="-420" frameY="-78" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0006" x="3079" y="4090" width="2452" height="1050" frameX="0" frameY="-240" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0007" x="0" y="5342" width="2460" height="936" frameX="-28" frameY="-320" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0008" x="2460" y="5342" width="2458" height="574" frameX="-28" frameY="-500" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0009" x="6730" y="0" width="2476" height="470" frameX="-34" frameY="-548" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0010" x="0" y="0" width="2560" height="1440" frameX="0" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0011" x="0" y="0" width="2560" height="1440" frameX="0" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="holdinghands glitch0012" x="0" y="0" width="2560" height="1440" frameX="0" frameY="0" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>
